@@ -19,5 +19,5 @@ spec:
             command:
             - /bin/sh
             - -c
-            - echo "Let's smash the CKAD"; sleep 600
+            - echo "Let's smash the CKAD"; sleep 60
           restartPolicy: OnFailure
