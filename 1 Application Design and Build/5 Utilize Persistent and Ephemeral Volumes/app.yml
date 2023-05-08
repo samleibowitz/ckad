@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: app1
-  namespace: pluralsight
+  namespace: ckad
 spec:
   volumes:
   - name: vol1

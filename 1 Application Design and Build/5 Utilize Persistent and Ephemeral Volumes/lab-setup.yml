@@ -50,7 +50,7 @@ spec:
   volumes:
   - name: data
     persistentVolumeClaim:
-      claimName: pvc1
+      claimName: pvc2
   containers:
   - name: ctr
     image: alpine:latest

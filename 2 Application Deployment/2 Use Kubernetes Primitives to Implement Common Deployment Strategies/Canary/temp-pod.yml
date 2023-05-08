@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: temp-pod
+spec:
+  containers:
+  - name: temp-shell
+    image: alpine:3.17
+    resources:
+      limits:
+        memory: "128Mi" # 128 MB
+        cpu: "200m" # 200 millicpu (.2 cpu or 20% of the cpu)
+    command: ["/bin/sh"]
+    args: ["-c", "while true; do echo hello; sleep 10;done"]
+  hostNetwork: true
+  dnsPolicy: Default
