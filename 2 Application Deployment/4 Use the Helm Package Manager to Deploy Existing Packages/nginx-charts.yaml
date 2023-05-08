@@ -1,0 +1,1103 @@
+- app_version: 1.16.0
+  description: Chart for the nginx server
+  repository:
+    name: cloudnativeapp
+    url: https://cloudnativeapp.github.io/charts/curated/
+  url: https://artifacthub.io/packages/helm/cloudnativeapp/nginx
+  version: 3.2.0
+- app_version: 1.23.2
+  description: NGINX Open Source is a web server that can be also used as a reverse
+    proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due
+    to its ability to provide faster content.
+  repository:
+    name: jfrog
+    url: https://charts.jfrog.io
+  url: https://artifacthub.io/packages/helm/jfrog/nginx
+  version: 13.2.13
+- app_version: 1.16.1
+  description: Chart for the nginx server
+  repository:
+    name: zrepo-test
+    url: http://pqbbvd.natappfree.cc/charts/index.yaml
+  url: https://artifacthub.io/packages/helm/zrepo-test/nginx
+  version: 5.1.5
+- app_version: 1.19.4
+  description: Chart for the nginx server
+  repository:
+    name: dysnix
+    url: https://dysnix.github.io/charts
+  url: https://artifacthub.io/packages/helm/dysnix/nginx
+  version: 7.1.8
+- app_version: 1.16.0
+  description: A NGINX Docker Community based Helm chart for Kubernetes
+  repository:
+    name: mirantis
+    url: https://charts.mirantis.com
+  url: https://artifacthub.io/packages/helm/mirantis/nginx
+  version: 0.1.0
+- app_version: 1.24.0
+  description: NGINX Open Source is a web server that can be also used as a reverse
+    proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due
+    to its ability to provide faster content.
+  repository:
+    name: bitnami
+    url: https://charts.bitnami.com/bitnami
+  url: https://artifacthub.io/packages/helm/bitnami/nginx
+  version: 14.0.0
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: test-nginx
+    url: https://vizarg.github.io/helm-chart-nginx/nginx
+  url: https://artifacthub.io/packages/helm/test-nginx/nginx
+  version: 0.1.0
+- app_version: 1.19.0
+  description: Nginx Helm chart for Kubernetes
+  repository:
+    name: krakazyabra
+    url: https://krakazyabra.github.io/microservices
+  url: https://artifacthub.io/packages/helm/krakazyabra/nginx
+  version: 1.0.0
+- app_version: ""
+  description: An NGINX HTTP server
+  repository:
+    name: wiremind
+    url: https://wiremind.github.io/wiremind-helm-charts
+  url: https://artifacthub.io/packages/helm/wiremind/nginx
+  version: 2.1.1
+- app_version: 1.19.6
+  description: Nginx Helm chart for Kubernetes
+  repository:
+    name: shubhamtatvamasi
+    url: https://shubhamtatvamasi.github.io/helm
+  url: https://artifacthub.io/packages/helm/shubhamtatvamasi/nginx
+  version: 0.1.12
+- app_version: 1.23.2
+  description: NGINX Open Source is a web server that can be also used as a reverse
+    proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due
+    to its ability to provide faster content.
+  repository:
+    name: bitnami-aks
+    url: https://marketplace.azurecr.io/helm/v1/repo
+  url: https://artifacthub.io/packages/helm/bitnami-aks/nginx
+  version: 13.2.13
+- app_version: 1.19.10
+  description: Helm chart to deploy [nginx](https://www.nginx.com).  Chart supports
+    environment variables inside of the nginx.conf file.
+  repository:
+    name: slamdev
+    url: https://slamdev.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/slamdev/nginx
+  version: 0.0.21
+- app_version: latest
+  description: A chart to do nginx things
+  repository:
+    name: cocainefarm
+    url: https://kube.cat/chartrepo/cocainefarm
+  url: https://artifacthub.io/packages/helm/cocainefarm/nginx
+  version: 1.0.1
+- app_version: latest
+  description: a simple web server
+  repository:
+    name: risserlabs
+    url: https://risserlabs.gitlab.io/community/charts
+  url: https://artifacthub.io/packages/helm/risserlabs/nginx
+  version: 0.0.2
+- app_version: 1.22.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: mombe090
+    url: https://mombe090.github.io/home/
+  url: https://artifacthub.io/packages/helm/mombe090/nginx
+  version: 3.0.1
+- app_version: ""
+  description: Simple nginx deployment usable for deploying proxies or small sites.
+  repository:
+    name: t3n
+    url: https://storage.googleapis.com/t3n-helm-charts
+  url: https://artifacthub.io/packages/helm/t3n/nginx
+  version: 0.2.0
+- app_version: 1.20.2
+  description: Helm chart for nginx-1.20.2
+  repository:
+    name: onurs-repo
+    url: https://rezoruno.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/onurs-repo/nginx
+  version: 0.2.0
+- app_version: 1.18.0
+  description: nginx is an HTTP and reverse proxy server, a mail proxy server, and
+    a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+  repository:
+    name: kubesphere
+    url: https://charts.kubesphere.io/main
+  url: https://artifacthub.io/packages/helm/kubesphere/nginx
+  version: 1.3.5
+- app_version: 1.21.0
+  description: Chart for the nginx server
+  repository:
+    name: kubegemsapp
+    url: https://charts.kubegems.io/kubegemsapp
+  url: https://artifacthub.io/packages/helm/kubegemsapp/nginx
+  version: 9.3.4
+- app_version: 1.1.1
+  description: A Nginx Helm chart for Kubernetes
+  repository:
+    name: matic-insurance
+    url: https://matic-insurance.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/matic-insurance/nginx
+  version: 1.1.1
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: opsved
+    url: https://opsved.github.io/artifacts/
+  url: https://artifacthub.io/packages/helm/opsved/nginx
+  version: 0.1.1
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: douban
+    url: https://douban.github.io/charts/
+  url: https://artifacthub.io/packages/helm/douban/nginx
+  version: 0.2.0
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: kalpeva
+    url: https://caalpeva.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/kalpeva/nginx
+  version: 7.0.0
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: open-charts
+    url: https://SimonMisencik.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/open-charts/nginx
+  version: 1.0.0
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: nginxchart
+    url: https://alexeiemelin.github.io/nginx_helm/charts/
+  url: https://artifacthub.io/packages/helm/nginxchart/my_nginx
+  version: 0.1.2
+- app_version: 3.1.0
+  description: NGINX Ingress Controller
+  repository:
+    name: nginx-ingress-chart
+    url: oci://ghcr.io/nginxinc/charts/nginx-ingress
+  url: https://artifacthub.io/packages/helm/nginx-ingress-chart/nginx-ingress
+  version: 0.17.0
+- app_version: 3.1.0
+  description: NGINX Ingress Controller
+  repository:
+    name: nginx
+    url: https://helm.nginx.com/stable
+  url: https://artifacthub.io/packages/helm/nginx/nginx-ingress
+  version: 0.17.0
+- app_version: 1.7.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: ingress-nginx
+    url: https://kubernetes.github.io/ingress-nginx
+  url: https://artifacthub.io/packages/helm/ingress-nginx/ingress-nginx
+  version: 4.6.0
+- app_version: 1.2.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: ingress-nginx-internal
+    url: https://namewee.github.io/ingress-nginx-internal
+  url: https://artifacthub.io/packages/helm/ingress-nginx-internal/ingress-nginx
+  version: 4.1.0
+- app_version: 1.1.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: nginx-ingress-controller
+    url: https://ralvarezmar.github.io/nginx-ingress/
+  url: https://artifacthub.io/packages/helm/nginx-ingress-controller/ingress-nginx
+  version: 4.0.13
+- app_version: 1.16.0
+  description: A Helm chart for a sample nginx server deployment
+  repository:
+    name: nginx-app
+    url: https://brackly.github.io/Helm-deployment-to-Kubernetes-using-ArgoCD/charts
+  url: https://artifacthub.io/packages/helm/nginx-app/nginx-app
+  version: 0.1.2
+- app_version: 0.14.0
+  description: An nginx Ingress controller that uses ConfigMap to store the nginx
+    configuration.
+  repository:
+    name: jenkins-x
+    url: https://jenkins-x-charts.github.io/v2/
+  url: https://artifacthub.io/packages/helm/jenkins-x/nginx-ingress
+  version: 0.21.1
+- app_version: 0.29.0
+  description: An nginx Ingress controller that uses ConfigMap to store the nginx
+    configuration.
+  repository:
+    name: hkube
+    url: https://hkube.io/helm/
+  url: https://artifacthub.io/packages/helm/hkube/nginx-ingress
+  version: 1.31.1002
+- app_version: 0.24.1
+  description: An nginx Ingress controller that uses ConfigMap to store the nginx
+    configuration.
+  repository:
+    name: cloudnativeapp
+    url: https://cloudnativeapp.github.io/charts/curated/
+  url: https://artifacthub.io/packages/helm/cloudnativeapp/nginx-ingress
+  version: 1.6.11
+- app_version: v0.34.1
+  description: An nginx Ingress controller that uses ConfigMap to store the nginx
+    configuration.
+  repository:
+    name: okteto
+    url: https://charts.okteto.com
+  url: https://artifacthub.io/packages/helm/okteto/nginx-ingress
+  version: 1.41.2
+- app_version: 0.10.2
+  description: An nginx Ingress controller that uses ConfigMap to store the nginx
+    configuration.
+  repository:
+    name: zrepo-test
+    url: http://pqbbvd.natappfree.cc/charts/index.yaml
+  url: https://artifacthub.io/packages/helm/zrepo-test/nginx-ingress
+  version: 0.9.5
+- app_version: 2.4.0
+  description: Nginx and PHP FPM for running PHP applications
+  repository:
+    name: geek-cookbook
+    url: https://geek-cookbook.github.io/charts/
+  url: https://artifacthub.io/packages/helm/geek-cookbook/nginx-php
+  version: 1.2.2
+- app_version: 8-fpm-alpine
+  description: A chart for an nginx pod with multiple phpfpm pods
+  repository:
+    name: drpsychick
+    url: https://sickhub.github.io/charts
+  url: https://artifacthub.io/packages/helm/drpsychick/nginx-phpfpm
+  version: 0.1.1
+- app_version: 0.2.1
+  description: My test Helm chart with nginx
+  repository:
+    name: nrr-test-app
+    url: https://nrr-rus.github.io/artifact-nginx/
+  url: https://artifacthub.io/packages/helm/nrr-test-app/helm-nginx
+  version: 0.2.0
+- app_version: 1.7.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: mxytest
+    url: http://kubernetes.github.io/ingress-nginx
+  url: https://artifacthub.io/packages/helm/mxytest/ingress-nginx
+  version: 4.6.0
+- app_version: 1.7.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: wenerme
+    url: https://charts.wener.tech
+  url: https://artifacthub.io/packages/helm/wenerme/ingress-nginx
+  version: 4.6.0
+- app_version: 1.5.1
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: softonic
+    url: https://charts.softonic.io
+  url: https://artifacthub.io/packages/helm/softonic/ingress-nginx
+  version: 4.4.0
+- app_version: 1.6.4
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: jfrog
+    url: https://charts.jfrog.io
+  url: https://artifacthub.io/packages/helm/jfrog/ingress-nginx
+  version: 4.5.2
+- app_version: 1.7.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: wener
+    url: https://wenerme.github.io/charts
+  url: https://artifacthub.io/packages/helm/wener/ingress-nginx
+  version: 4.6.0
+- app_version: 1.1.2
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: gilangvperdana
+    url: https://gilangvperdana.github.io/charts/
+  url: https://artifacthub.io/packages/helm/gilangvperdana/ingress-nginx
+  version: 4.0.18
+- app_version: 0.45.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: api
+    url: http://54.159.81.144:8080
+  url: https://artifacthub.io/packages/helm/api/ingress-nginx
+  version: 3.29.1
+- app_version: 0.1.0
+  description: Nginx proxy for nalkinscloud project
+  repository:
+    name: arielevs
+    url: https://arielevs.github.io/Kubernetes-Helm-Charts/
+  url: https://artifacthub.io/packages/helm/arielevs/nalkinscloud-nginx
+  version: 0.1.4
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: my-nginx-app
+    url: https://akshatoxy.github.io/helm-chart-nginx-app/
+  url: https://artifacthub.io/packages/helm/my-nginx-app/nginx-app
+  version: 0.1.3
+- app_version: 1.0.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: nginx-web
+    url: https://str33twalk3r.github.io/nginx-web-chart/
+  url: https://artifacthub.io/packages/helm/nginx-web/nginx-chart
+  version: 0.1.0
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: test-nginx-charts
+    url: https://yedukondalurd.github.io/nginx-charts/
+  url: https://artifacthub.io/packages/helm/test-nginx-charts/nginx-charts
+  version: 0.1.0
+- app_version: 1.16.0
+  description: Nginx example demonstrates usage of a helm chart that points to an
+    nginx server
+  repository:
+    name: ngrok-ingress-helm
+    url: https://xplorfin.github.io/ngrok-ingress-helm/
+  url: https://artifacthub.io/packages/helm/ngrok-ingress-helm/nginx-example
+  version: 0.3.0
+- app_version: 0.0.1
+  description: This content is expermental, do not use it in production. Build and
+    serve static content via Nginx HTTP server and a reverse proxy (nginx) on RHEL.
+    https://github.com/sclorg/nginx-container/blob/master/README.md.
+  repository:
+    name: openshift
+    url: https://charts.openshift.io/
+  url: https://artifacthub.io/packages/helm/openshift/nginx-imagestreams
+  version: 0.0.1
+- app_version: nginx-1.10.3_php-7.0_1242
+  description: Chart for the nginx php server
+  repository:
+    name: ygqygq2
+    url: https://ygqygq2.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ygqygq2/nginx-php
+  version: 2.0.0
+- app_version: 0.10.0
+  description: A Helm chart servicemonitor for nginx exporter
+  repository:
+    name: ygqygq2
+    url: https://ygqygq2.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ygqygq2/nginx-servicemonitor
+  version: 1.0.0
+- app_version: 1.14.2
+  description: Chart for the nginx server
+  repository:
+    name: ygqygq2
+    url: https://ygqygq2.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ygqygq2/nginx-sftp
+  version: 2.0.0
+- app_version: 1.17.10
+  description: Chart for the nginx server
+  repository:
+    name: bitnami-aks
+    url: https://marketplace.azurecr.io/helm/v1/repo
+  url: https://artifacthub.io/packages/helm/bitnami-aks/nginx-test
+  version: 5.2.4
+- app_version: ""
+  description: NGINX Service Mesh
+  repository:
+    name: nginx
+    url: https://helm.nginx.com/stable
+  url: https://artifacthub.io/packages/helm/nginx/nginx-service-mesh
+  version: 2.0.0
+- app_version: 1.7.0
+  description: NGINX Ingress Controller is an Ingress controller that manages external
+    access to HTTP services in a Kubernetes cluster using NGINX.
+  repository:
+    name: bitnami
+    url: https://charts.bitnami.com/bitnami
+  url: https://artifacthub.io/packages/helm/bitnami/nginx-ingress-controller
+  version: 9.5.1
+- app_version: 1.4.0
+  description: NGINX Ingress Controller is an Ingress controller that manages external
+    access to HTTP services in a Kubernetes cluster using NGINX.
+  repository:
+    name: bitnami-aks
+    url: https://marketplace.azurecr.io/helm/v1/repo
+  url: https://artifacthub.io/packages/helm/bitnami-aks/nginx-ingress-controller
+  version: 9.3.19
+- app_version: 2.9.19
+  description: Managing Nginx proxy hosts with a simple, powerful interface.
+  repository:
+    name: truecharts
+    url: https://charts.truecharts.org/
+  url: https://artifacthub.io/packages/helm/truecharts/nginx-proxy-manager
+  version: 3.1.11
+- app_version: 1.0.0
+  description: This is the chart for app-nginx
+  repository:
+    name: glab6
+    url: https://cx-charts.btech.id/charts/
+  url: https://artifacthub.io/packages/helm/glab6/app-nginx
+  version: 1.0.0
+- app_version: "6.08"
+  description: FastDFS-Nginx chart for Kubernetes
+  repository:
+    name: ygqygq2
+    url: https://ygqygq2.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ygqygq2/fastdfs-nginx
+  version: 2.1.0
+- app_version: V6.06
+  description: FastDFS-Nginx chart for Kubernetes
+  repository:
+    name: saber
+    url: https://wusihualogk.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/saber/fastdfs-nginx
+  version: 2.0.2
+- app_version: ""
+  description: A Helm chart for Nginx Ingress
+  repository:
+    name: cloudposse
+    url: https://charts.cloudposse.com/incubator/
+  url: https://artifacthub.io/packages/helm/cloudposse/nginx-ingress
+  version: 0.1.8
+- app_version: 1.16.0
+  description: helm chart for nginx-revproxy
+  repository:
+    name: onurs-repo
+    url: https://rezoruno.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/onurs-repo/nginx-revproxy
+  version: 1.0.2
+- app_version: latest
+  description: A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic
+    settings for streaming HLS. Built on Alpine Linux
+  repository:
+    name: cocainefarm
+    url: https://kube.cat/chartrepo/cocainefarm
+  url: https://artifacthub.io/packages/helm/cocainefarm/nginx-rtmp
+  version: 0.7.0
+- app_version: 1.16.0
+  description: Nginx S3 gateway
+  repository:
+    name: olopost
+    url: https://olopost.github.io/chartrepo
+  url: https://artifacthub.io/packages/helm/olopost/nginx-s3
+  version: 0.1.1
+- app_version: "1.1"
+  description: A Helm chart for installing a simple nginx
+  repository:
+    name: newrelic
+    url: https://helm-charts.newrelic.com
+  url: https://artifacthub.io/packages/helm/newrelic/simple-nginx
+  version: 1.1.1
+- app_version: 1.1.5
+  description: Monitor nginx ingress controller
+  repository:
+    name: someblackmagic
+    url: https://someblackmagic.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/someblackmagic/ingress-nginx-monitoring
+  version: 1.1.5
+- app_version: ""
+  description: A Helm chart for nginx-default-backend to be used by nginx-ingress
+    controller
+  repository:
+    name: cloudposse
+    url: https://charts.cloudposse.com/incubator/
+  url: https://artifacthub.io/packages/helm/cloudposse/nginx-default-backend
+  version: 0.5.0
+- app_version: 0.44.0
+  description: Chart for the nginx Ingress controller
+  repository:
+    name: microfunctions
+    url: https://microfunctionsio.github.io/microfunctions-helm
+  url: https://artifacthub.io/packages/helm/microfunctions/nginx-ingress-controller
+  version: 7.5.0
+- app_version: 0.24.1
+  description: Chart for the nginx Ingress controller
+  repository:
+    name: cloudnativeapp
+    url: https://cloudnativeapp.github.io/charts/curated/
+  url: https://artifacthub.io/packages/helm/cloudnativeapp/nginx-ingress-controller
+  version: 3.4.5
+- app_version: nginx-1.10.3_php-7.0_1242
+  description: Chart for the nginx server
+  repository:
+    name: ygqygq2
+    url: https://ygqygq2.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ygqygq2/nginx-php-sftp
+  version: 2.0.0
+- app_version: 0.10.7
+  description: A Helm chart for scrapes Nginx vts stats and exports them via HTTP
+    for Prometheus consumption
+  repository:
+    name: ymrs
+    url: https://ymrsmns.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/ymrs/nginx-vts-exporter
+  version: 0.1.2
+- app_version: 0.11.0
+  description: A Helm chart for the Prometheus NGINX Exporter
+  repository:
+    name: prometheus-community
+    url: https://prometheus-community.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/prometheus-community/prometheus-nginx-exporter
+  version: 0.1.0
+- app_version: 1.1.0
+  description: NGINX App Protect Dos arbitrator
+  repository:
+    name: nginx
+    url: https://helm.nginx.com/stable
+  url: https://artifacthub.io/packages/helm/nginx/nginx-appprotect-dos-arbitrator
+  version: 0.1.0
+- app_version: 1.12.7
+  description: Enables ingress-nginx to validate JWT tokens
+  repository:
+    name: ingress-nginx-validate-jwt
+    url: https://ivanjosipovic.github.io/ingress-nginx-validate-jwt
+  url: https://artifacthub.io/packages/helm/ingress-nginx-validate-jwt/ingress-nginx-validate-jwt
+  version: 1.12.7
+- app_version: 1.7.0
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer
+  repository:
+    name: giantswarm
+    url: https://giantswarm.github.io/giantswarm-catalog
+  url: https://artifacthub.io/packages/helm/giantswarm/nginx-ingress-controller-app
+  version: 2.30.0
+- app_version: v20230215-helm-chart-4.5.2-3-g15ecd2531
+  description: A Helm chart to create a custom backend for your Nginx ingress
+  repository:
+    name: alphani-helm-charts
+    url: https://roertel.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/alphani-helm-charts/nginx-default-backend
+  version: 0.1.2-0
+- app_version: 1.13.5
+  description: nginx proxy with ldapauth
+  repository:
+    name: camptocamp3
+    url: https://camptocamp.github.io/charts
+  url: https://artifacthub.io/packages/helm/camptocamp3/nginx-ldapauth-proxy
+  version: 0.2.2
+- app_version: 1.13.5
+  description: nginx proxy with ldapauth
+  repository:
+    name: cloudnativeapp
+    url: https://cloudnativeapp.github.io/charts/curated/
+  url: https://artifacthub.io/packages/helm/cloudnativeapp/nginx-ldapauth-proxy
+  version: 0.1.2
+- app_version: 20201029-1700-nginx-1
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/anaconda-nginx
+  version: 2.0.0
+- app_version: 1.0.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: teochenglim
+    url: https://teochenglim.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/teochenglim/dummy-nginx
+  version: 1.0.3
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: stksrshelm
+    url: https://settakit-sirisoft.github.io/stksrshelm/
+  url: https://artifacthub.io/packages/helm/stksrshelm/helm-nginx
+  version: 0.1.0
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: paxtecnologia
+    url: https://paxtecnologia.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/paxtecnologia/ms-nginx
+  version: 0.1.5
+- app_version: 0.1.2
+  description: A Simple Web service Chart
+  repository:
+    name: pnnl-miscscripts
+    url: https://pnnl-miscscripts.github.io/charts
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts/nginx-app
+  version: 0.1.2
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: sample-charts
+    url: https://dunefro.github.io/sample-charts/
+  url: https://artifacthub.io/packages/helm/sample-charts/sample-nginx
+  version: 0.1.3
+- app_version: 6.1.1
+  description: Web publishing platform for building blogs and websites.
+  repository:
+    name: gh-shesselink81-public
+    url: https://shesselink81.github.io/helm-charts/public-charts/
+  url: https://artifacthub.io/packages/helm/gh-shesselink81-public/wordpress-nginx
+  version: 4.0.6
+- app_version: 1.0.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: teochenglim
+    url: https://teochenglim.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/teochenglim/dummy-nginx-html
+  version: 1.0.1
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: exxk
+    url: https://iexxk.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/exxk/nginx-file-browser
+  version: 1.0.0
+- app_version: 1.13.5-alpine
+  description: A Helm chart for Kubernetes
+  repository:
+    name: choerodon
+    url: https://openchart.choerodon.com.cn/choerodon/c7n
+  url: https://artifacthub.io/packages/helm/choerodon/nginx-files-server
+  version: 0.1.0
+- app_version: 2.5.0
+  description: A Demo application for the logging-operator
+  repository:
+    name: banzaicloud-stable
+    url: https://kubernetes-charts.banzaicloud.com
+  url: https://artifacthub.io/packages/helm/banzaicloud-stable/nginx-logging-demo
+  version: 2.5.0
+- app_version: 0.1.0
+  description: A Helm chart for the Web Sockets Proxy to be consumed by the Chat UI
+  repository:
+    name: commonground
+    url: https://charts.commonground.nl/
+  url: https://artifacthub.io/packages/helm/commonground/nginx-websockets-proxy
+  version: 0.1.0
+- app_version: 2.5.0
+  description: A Demo application for the logging-operator AWS CloudWatch backend
+  repository:
+    name: banzaicloud-stable
+    url: https://kubernetes-charts.banzaicloud.com
+  url: https://artifacthub.io/packages/helm/banzaicloud-stable/nginx-logging-cw-demo
+  version: 2.5.0
+- app_version: 2.5.0
+  description: A Demo application for the logging-operator
+  repository:
+    name: banzaicloud-stable
+    url: https://kubernetes-charts.banzaicloud.com
+  url: https://artifacthub.io/packages/helm/banzaicloud-stable/nginx-logging-es-demo
+  version: 2.5.0
+- app_version: 2.5.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: banzaicloud-stable
+    url: https://kubernetes-charts.banzaicloud.com
+  url: https://artifacthub.io/packages/helm/banzaicloud-stable/nginx-logging-kafka-demo
+  version: 2.5.0
+- app_version: 2.5.0
+  description: A Demo application for the logging-operator
+  repository:
+    name: banzaicloud-stable
+    url: https://kubernetes-charts.banzaicloud.com
+  url: https://artifacthub.io/packages/helm/banzaicloud-stable/nginx-logging-loki-demo
+  version: 2.5.0
+- app_version: 0.1.0
+  description: A Helm chart for the Video Player UI Proxy to be consumed by the Video
+    Player UI
+  repository:
+    name: commonground
+    url: https://charts.commonground.nl/
+  url: https://artifacthub.io/packages/helm/commonground/nginx-video-player-ui-proxy
+  version: 0.1.0
+- app_version: 1.13.11-nginx-1
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-13
+  version: 2.0.0
+- app_version: 1.14.10-nginx-7
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-14
+  version: 2.0.0
+- app_version: 1.15.12-nginx-5
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-15
+  version: 2.0.0
+- app_version: 1.16.15-nginx-9
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-16
+  version: 2.0.0
+- app_version: 1.17.17-nginx-36
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-17
+  version: 2.0.0
+- app_version: 1.18.20-nginx-32
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-18
+  version: 2.0.0
+- app_version: 1.19.16-nginx-20
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-19
+  version: 2.0.0
+- app_version: 1.20.15-nginx-18
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-20
+  version: 2.0.0
+- app_version: 1.21.14-nginx-6
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-21
+  version: 2.0.0
+- app_version: 1.22.17-nginx-6
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-22
+  version: 2.0.0
+- app_version: 1.23.17-nginx-6
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-23
+  version: 2.0.0
+- app_version: 1.24.13-nginx-1
+  description: A Helm chart for Kubernetes
+  repository:
+    name: pnnl-miscscripts-libraries
+    url: https://pnnl-miscscripts.github.io/image-library-charts/
+  url: https://artifacthub.io/packages/helm/pnnl-miscscripts-libraries/k8s-node-image-nginx-1-24
+  version: 2.0.0
+- app_version: "0.36"
+  description: An SSO and OAuth login solution for nginx using the auth_request module.
+  repository:
+    name: vouch
+    url: https://vouch.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/vouch/vouch
+  version: 3.1.0
+- app_version: 0.32.0
+  description: An SSO and OAuth login solution for nginx using the auth_request module
+  repository:
+    name: halkeye
+    url: https://halkeye.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/halkeye/vouch
+  version: 3.0.2
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes to deploy a service proxified via init
+    container with nginx into AWS with alb.
+  repository:
+    name: aws-web-service-proxified
+    url: https://prefapp.github.io/charts/aws-web-service-proxified
+  url: https://artifacthub.io/packages/helm/aws-web-service-proxified/aws-web-service-proxified
+  version: 1.4.2
+- app_version: v1.0
+  description: Frontend application running in nginx, based on create-react-app.
+  repository:
+    name: romanow-helm-charts
+    url: https://romanow.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/romanow-helm-charts/frontend
+  version: 1.3.5
+- app_version: v0.0.1
+  description: Automated tcp port mapping for the nginx ingress controller
+  repository:
+    name: k8stcpmap-controller
+    url: https://doodlescheduling.github.io/k8stcpmap-controller
+  url: https://artifacthub.io/packages/helm/k8stcpmap-controller/k8stcpmap-controller
+  version: 0.1.2
+- app_version: 1.0.0
+  description: Chart for the nginx server
+  repository:
+    name: ygqygq2
+    url: https://ygqygq2.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ygqygq2/mod-chart
+  version: 3.0.7
+- app_version: 1.16.0
+  description: A Helm chart for Kubernetes
+  repository:
+    name: nginx-chart
+    url: https://uwaiszaki.github.io/nginx_chart/charts/
+  url: https://artifacthub.io/packages/helm/nginx-chart/my-app-chart
+  version: 0.1.0
+- app_version: 4.6.2
+  description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
+    load balancer with Wallarm module
+  repository:
+    name: wallarm
+    url: https://charts.wallarm.com/
+  url: https://artifacthub.io/packages/helm/wallarm/wallarm-ingress
+  version: 4.6.2
+- app_version: 4.6.0
+  description: Sidecar controller for Kubernetes. Injects sidecar proxy based on NGINX
+    with Wallarm module and helper services.
+  repository:
+    name: wallarm
+    url: https://charts.wallarm.com/
+  url: https://artifacthub.io/packages/helm/wallarm/wallarm-sidecar
+  version: 4.6.0
+- app_version: 2.2.1
+  description: A Helm chart using another-ldap-auth to enable AD or LDAP based basic-authentication
+    for ingress resources
+  repository:
+    name: ieugen-charts
+    url: https://ieugen.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ieugen-charts/another-ldap-auth
+  version: 0.3.0
+- app_version: 1.15.0
+  description: Apache APISIX is a dynamic, real-time, high-performance API gateway,
+    based on the Nginx library and etcd.
+  repository:
+    name: kubesphere-test
+    url: https://charts.kubesphere.io/test
+  url: https://artifacthub.io/packages/helm/kubesphere-test/apisix
+  version: 0.1.7
+- app_version: 1.6.1
+  description: Apache APISIX Ingress Controller for Kubernetes
+  repository:
+    name: apisix
+    url: https://charts.apiseven.com
+  url: https://artifacthub.io/packages/helm/apisix/apisix-ingress-controller
+  version: 0.11.6
+- app_version: 1.3.0
+  description: Apache APISIX Ingress Controller for Kubernetes
+  repository:
+    name: kubesphere
+    url: https://charts.kubesphere.io/main
+  url: https://artifacthub.io/packages/helm/kubesphere/apisix-ingress-controller
+  version: 0.8.0
+- app_version: latest
+  description: Aurora Files is an open-source file storage platform for small teams
+    and personal users. Afterlogic Aurora Files image for Chart using Nginx, PHP-FPM
+    8.1, MySQL on Alpine Linux. Loosely based on khromov/alpine-nginx-php8 package.
+  repository:
+    name: truecharts
+    url: https://charts.truecharts.org/
+  url: https://artifacthub.io/packages/helm/truecharts/aurora-files
+  version: 2.0.9
+- app_version: latest
+  description: A generic helm cronjob chart for kubernetes
+  repository:
+    name: drpsychick
+    url: https://sickhub.github.io/charts
+  url: https://artifacthub.io/packages/helm/drpsychick/cronjobs
+  version: 0.1.6
+- app_version: 4.1.4
+  description: Django是一个有期限的完美主义者网络框架！
+  repository:
+    name: ju4t
+    url: https://charts.labdoc.cc/
+  url: https://artifacthub.io/packages/helm/ju4t/django
+  version: 0.1.0
+- app_version: ""
+  description: A Helm chart that provides a maintenance backend to be used by nginx-ingress
+    controller
+  repository:
+    name: cloudposse
+    url: https://charts.cloudposse.com/incubator/
+  url: https://artifacthub.io/packages/helm/cloudposse/fail-whale
+  version: 0.1.1
+- app_version: latest
+  description: Fancyindex provides a lightweight nginx directory listing with theming
+    support
+  repository:
+    name: truecharts
+    url: https://charts.truecharts.org/
+  url: https://artifacthub.io/packages/helm/truecharts/fancyindex
+  version: 3.0.8
+- app_version: 1.30.0
+  description: Flagger is a progressive delivery operator for Kubernetes
+  repository:
+    name: flagger
+    url: https://flagger.app
+  url: https://artifacthub.io/packages/helm/flagger/flagger
+  version: 1.30.0
+- app_version: 0.19.0
+  description: Flagger is a Kubernetes operator that automates the promotion of canary
+    deployments using Istio, Linkerd, App Mesh, Gloo or NGINX routing for traffic
+    shifting and Prometheus metrics for canary analysis.
+  repository:
+    name: mesosphere
+    url: https://mesosphere.github.io/charts/staging
+  url: https://artifacthub.io/packages/helm/mesosphere/flagger
+  version: 0.21.0
+- app_version: 0.3.2
+  description: KubeGems 租户网关，基于 Nginx ingress
+  repository:
+    name: kubegems
+    url: https://charts.kubegems.io/kubegems
+  url: https://artifacthub.io/packages/helm/kubegems/gateway
+  version: 0.3.2
+- app_version: 2.1.1
+  description: Geo-checker is the IP address resolver to the country_name and iso_code.Based
+    on openresty (nginx) and maxmind geo DB (build-in cron for geoipupdate).
+  repository:
+    name: geo-checker
+    url: https://yurymuski.github.io/geo-checker/helm
+  url: https://artifacthub.io/packages/helm/geo-checker/geo-checker
+  version: 2.1.1
+- app_version: latest
+  description: GoAccess for Nginx Proxy Manager Logs
+  repository:
+    name: truecharts
+    url: https://charts.truecharts.org/
+  url: https://artifacthub.io/packages/helm/truecharts/goaccess-npm-logs
+  version: 2.0.13
+- app_version: 1.16.0
+  description: A helloWorld chart for Kubernetes using ingress nginx
+  repository:
+    name: crowdsec
+    url: https://crowdsecurity.github.io/helm-charts
+  url: https://artifacthub.io/packages/helm/crowdsec/helloworld
+  version: 0.2.1
+- app_version: 2.3.3
+  description: Kong is a scalable, open source API layer (aka API gateway or API middleware)
+    that runs in front of any RESTful API. Extra functionalities beyond the core platform
+    are extended through plugins. Kong is built on top of reliable technologies like
+    NGINX and provides an easy-to-use RESTful API to operate and configure the system.
+  repository:
+    name: microfunctions
+    url: https://microfunctionsio.github.io/microfunctions-helm
+  url: https://artifacthub.io/packages/helm/microfunctions/kong
+  version: 3.4.5
+- app_version: 3.1.12
+  description: A KubMeta library Helm chart for Kubernetes
+  repository:
+    name: kubmeta
+    url: https://charts.kubmeta.com/
+  url: https://artifacthub.io/packages/helm/kubmeta/kubmeta-lib
+  version: 3.1.12
+- app_version: 8.0.0
+  description: Helm chart for Laravel applications.
+  repository:
+    name: kubmeta
+    url: https://charts.kubmeta.com/
+  url: https://artifacthub.io/packages/helm/kubmeta/laravel
+  version: 4.2.7
+- app_version: v0.0.1
+  description: A Helm chart for deployoing ORY Oathkeeper Rule Controller in Kubernetes
+  repository:
+    name: ory
+    url: https://k8s.ory.sh/helm/charts
+  url: https://artifacthub.io/packages/helm/ory/maester
+  version: 0.0.17
+- app_version: v0.6.85
+  description: Meshery chart for deploying Meshery and Meshery's adapters.
+  repository:
+    name: meshery
+    url: https://meshery.io/charts/
+  url: https://artifacthub.io/packages/helm/meshery/meshery
+  version: 0.6.85
+- app_version: v0.6.85
+  description: Meshery chart for deploying Meshery and Meshery's adapters.
+  repository:
+    name: wenerme
+    url: https://charts.wener.tech
+  url: https://artifacthub.io/packages/helm/wenerme/meshery
+  version: 0.6.85
+- app_version: v0.6.85
+  description: Meshery chart for deploying Meshery and Meshery's adapters.
+  repository:
+    name: wener
+    url: https://wenerme.github.io/charts
+  url: https://artifacthub.io/packages/helm/wener/meshery
+  version: 0.6.85
+- app_version: 3.3.5
+  description: 'Airlock Microgateway helps you to protect your services and APIs from
+    unauthorized or malicious access with little effort. It is a lightweight Web Application
+    Firewall (WAF) and API security gateway designed specifically for use in container
+    environments. '
+  repository:
+    name: airlock-helm-charts
+    url: https://ergon.github.io/airlock-helm-charts/
+  url: https://artifacthub.io/packages/helm/airlock-helm-charts/microgateway
+  version: 3.0.25
+- app_version: ""
+  description: A Helm chart for nginx
+  repository:
+    name: sample-helm-charts
+    url: https://lerndevops.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/sample-helm-charts/nginxdemo
+  version: 0.2.0
+- app_version: v0.40.3
+  description: A Helm chart for deploying ORY Oathkeeper in Kubernetes
+  repository:
+    name: ory
+    url: https://k8s.ory.sh/helm/charts
+  url: https://artifacthub.io/packages/helm/ory/oathkeeper
+  version: 0.32.0
+- app_version: v0.1.8
+  description: A Helm chart for deploying ORY Oathkeeper Rule Controller in Kubernetes
+  repository:
+    name: ory
+    url: https://k8s.ory.sh/helm/charts
+  url: https://artifacthub.io/packages/helm/ory/oathkeeper-maester
+  version: 0.32.0
+- app_version: 8.1-v6-apache
+  description: A Helm Chart for a generic PHP application
+  repository:
+    name: qonstrukt
+    url: https://qonstrukt.github.io/helm-charts/
+  url: https://artifacthub.io/packages/helm/qonstrukt/php
+  version: 0.1.2
+- app_version: 1.3.5
+  description: A minimalist, open source online pastebin running on an Nginx, php-fpm
+    & Alpine Linux stack
+  repository:
+    name: geek-cookbook
+    url: https://geek-cookbook.github.io/charts/
+  url: https://artifacthub.io/packages/helm/geek-cookbook/privatebin
+  version: 2.2.0
+- app_version: latest
+  description: Self-hosted Rickrolls. Image is based on Nginx stable alpine, and all
+    the content is local to the Chart.
+  repository:
+    name: truecharts
+    url: https://charts.truecharts.org/
+  url: https://artifacthub.io/packages/helm/truecharts/rickroll
+  version: 2.0.12
+- app_version: v1.0.6
+  description: Simple TLS-SNI based router using Traefik and NGINX
+  repository:
+    name: riotkit-org
+    url: https://riotkit-org.github.io/helm-of-revolution/
+  url: https://artifacthub.io/packages/helm/riotkit-org/sni-router
+  version: 1.0.6
+- app_version: 2.3.2
+  description: Chart for the tengine server.
+  repository:
+    name: ygqygq2
+    url: https://ygqygq2.github.io/charts/
+  url: https://artifacthub.io/packages/helm/ygqygq2/tengine-sftp
+  version: 2.0.0

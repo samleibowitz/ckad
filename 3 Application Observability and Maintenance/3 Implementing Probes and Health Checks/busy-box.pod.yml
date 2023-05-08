@@ -1,0 +1,33 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  creationTimestamp: null
+  labels:
+    run: busybox-probes
+  name: busybox-probes
+spec:
+  containers:
+  - image: k8s.gcr.io/busybox
+    name: busybox-probes
+    resources: {}
+    args:
+    - /bin/sh
+    - -c
+    - touch /tmp/healthy; sleep 30; rm -rf /tmp/healthy; sleep 120
+    readinessProbe:
+      exec:
+        command:
+        - cat
+        - /tmp/healthy
+      periodSeconds: 10
+      failureThreshold: 30
+    livenessProbe:
+      exec:
+        command:
+        - cat
+        - /tmp/healthy
+      periodSeconds: 5
+      initialDelaySeconds: 5
+  dnsPolicy: ClusterFirst
+  restartPolicy: Always
+status: {}
